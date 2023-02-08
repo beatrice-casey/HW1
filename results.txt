@@ -1,0 +1,7 @@
+Known security vulnerabilities detected: 
+
+Dependency: junit
+Version(s): >= 4.7 <  4.13.1
+Vulnerabilities:
+-CVE-2020-15250 Severity: LOW
+
